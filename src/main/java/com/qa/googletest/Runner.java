@@ -1,4 +1,4 @@
-package com.qa.gooletest;
+package com.qa.googletest;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
