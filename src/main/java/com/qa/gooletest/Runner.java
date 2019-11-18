@@ -1,4 +1,4 @@
-package com.qa.gooleTest;
+package com.qa.gooletest;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
@@ -8,7 +8,7 @@ public class Runner {
     /**
      * Run tests with JUnitCore methods
      *
-     * @param args
+     * @param args   actions
      */
     public static void main(String[] args) {
 
